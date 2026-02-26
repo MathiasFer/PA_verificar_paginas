@@ -4,3 +4,16 @@
 *.docx
 env
 /env
+venv/
+*.venv/
+.venv/
+*.venv/
+.venv/
+*.venv/
+.venv/
+*.venv/
+.venv/
+*.venv/
+.venv/
+*.venv/
+.venv/
