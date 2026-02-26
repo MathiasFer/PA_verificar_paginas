@@ -1,0 +1,6 @@
+*.xlsx
+.env
+/.env
+*.docx
+env
+/env
